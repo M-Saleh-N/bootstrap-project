@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.navbar-brand span{
+    color: rgb(145, 104, 55);
+    font-weight: bold;
+}
